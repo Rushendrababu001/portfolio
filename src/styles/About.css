@@ -1,0 +1,52 @@
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 2.5rem; 
+  padding-bottom: 5rem; 
+}
+
+.about-title {
+  font-size: 2.5rem;
+  color: black; 
+  font-weight: bold;
+}
+
+.about-title.dark {
+  color:black; 
+}
+
+.about-title.md {
+  font-size: 2.25rem; 
+}
+
+.about-title.xl {
+  font-size: 3rem;
+  line-height: 1.25;
+}
+
+.about-text {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: 1000px;
+  color: #4b5563;
+}
+
+.education-heading {
+  padding-top: 2.5rem;
+  font-size: 2.5rem;
+  color: black;
+  font-weight: bold;
+}
+
+.education-heading.dark {
+  color: black;
+}
+
+.education-heading.md {
+  font-size: 2.25rem;
+}
+
+.education-heading.xl {
+  font-size: 3rem;
+  line-height: 1.25;
+}

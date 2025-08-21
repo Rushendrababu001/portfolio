@@ -1,0 +1,74 @@
+.contact-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 1rem; 
+}
+
+.contact-title {
+  text-align: center;
+  font-size: 3.5rem; 
+  color: black; 
+  font-weight: 600;
+}
+
+.contact-title.md {
+  font-size: 1.875rem;
+  font-weight: 700;
+}
+
+.contact-title.lg {
+  font-size: 3.75rem;
+}
+
+.contact-title.dark {
+  color: black;
+}
+
+.contact-email {
+  text-align: center;
+  font-size: 1.875rem;
+  padding-top: 1rem;
+  font-weight: 500;
+  background: linear-gradient(to right, #06b6d4, #3b82f6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contact-email.md {
+  font-size: 2.25rem; 
+  padding-top: 2.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.contact-email.lg {
+  font-size: 3rem; 
+}
+
+.contact-or {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.50rem; 
+  font-weight: 500;
+  color: black; 
+}
+
+.contact-phone {
+  text-align: center;
+  font-size: 1.875rem;
+  padding-top: 0.5rem;
+  font-weight: 500;
+  background: linear-gradient(to right, #06b6d4, #3b82f6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contact-phone.md {
+  font-size: 2.25rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.contact-phone.lg {
+  font-size: 2.25rem;
+}

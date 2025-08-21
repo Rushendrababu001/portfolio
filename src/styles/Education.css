@@ -1,0 +1,61 @@
+.education {
+  padding-top: 2rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid rgba(34, 34, 34, 0.2);
+}
+
+.education.dark {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.education-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.education-course {
+  font-size: 1.125rem; 
+  color: #333;
+}
+
+.education-badge {
+  background-color: #d4edda;   
+  color: #155724;            
+  font-size: 0.75rem;
+  display: inline-block;
+  border-radius: 1.5rem;
+  padding: 0.25rem 0.75rem;
+  min-width: fit-content;
+}
+
+.education-info-row {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+}
+
+.education-details {
+  display: flex;
+  flex-direction: row;
+}
+
+.education-icon-label {
+  display: flex;
+  align-items: center;
+  padding-right: 1.25rem;
+}
+
+.education-icon-label svg {
+  min-width: fit-content;
+  fill: #333;
+}
+
+.education-icon-label p,
+.education-duration {
+  font-size: 0.75rem;
+  font-weight: 300;
+  padding-left: 0.25rem;
+  color: #444;
+  min-width: fit-content;
+}
