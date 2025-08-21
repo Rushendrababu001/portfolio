@@ -25,9 +25,6 @@ The application is designed with clean UI/UX, reusable components, and smooth na
 ### Home Page
 ![Home Page](src/assets/projects/project2.png)
 
-### Projects Section
-![Projects](./screenshots/projects.png)
-
 ---
 
 ## 🚀 Deployment
