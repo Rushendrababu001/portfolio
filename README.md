@@ -23,7 +23,7 @@ The application is designed with clean UI/UX, reusable components, and smooth na
 
 ## 📸 Screenshots
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](src/assets/projects/project2.png)
 
 ### Projects Section
 ![Projects](./screenshots/projects.png)
